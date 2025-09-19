@@ -28,5 +28,10 @@ class AuthController extends Controller
 
     function loggeduser(){
         echo  "hello logged user ";
+        // helo this is stage changes and hkjfhjdskfjsadlhf
+    }
+
+    function regsitered_user(){
+        echo "hello user kjsdhfjadshfjlk";
     }
 }
